@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
 
 
-[![Sippakorn's github stats](https://github-readme-stats.vercel.app/api?username=spk137&hide=stars,issues&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sippakorn's github stats](https://github-readme-stats.vercel.app/api?username=spk137&hide=stars,issues&count_private=true&show_icons=true&theme=radical&bg_color=30,623697,904e95,0f4e71&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
